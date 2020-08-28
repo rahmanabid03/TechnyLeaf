@@ -581,10 +581,10 @@ label.mt10.valid {
 
 .reg {
     margin-bottom: 20px;
+    text-align: center;
 }
 
 .register {
-    text-align: center;
     color: #000000;
 }
 
@@ -600,5 +600,9 @@ label.mt10.valid {
 }
 
 .rules-heading {
+    text-align: center;
+}
+
+.register-button {
     text-align: center;
 }
